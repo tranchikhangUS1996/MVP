@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/541d9a2918d791270b07be68ffdac293/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/dac8c985e847835a641c6f8516bfe284/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/95bd17f0a9b9802c07d8ec16e896023e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/376dc8215e515455e3f61a127161cfb5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/837cf524149eb29646632eb4ab576ce9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/9462d13dfcea6478d17c5d7b9d2cc700/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/e776d52d018fd4236164f9ea4f24146a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/3d3c89a86c13e03c855a226cc4948d3b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/eff12d601a25e62baaacfb8f20f2776c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/28531947d44bfa1ab07ff14da6b11dd4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/26b22a892d6e96b8ebdceff2fcb923cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/307f68556b1fd0218dc3e02fa787baff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2a52de93f3ef35f41dc044a6a4319c99/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/92b06defabe0ad31025705b3d7a76e8b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/6cd7c914fd03ac28397b1e6a776161af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8a0bf5c5d514f51a11145840228fd790/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/af4a12f4653ac2e01dbd4297a817fcc9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/3a2eb0483448f700866d09a9c0f0dcbf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c1e9af1570677f2193176fdf82828106/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c1ce6015a16bc7f86bbab95adaf34e79/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml
+		ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml
+		ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:7:5-31:19
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/541d9a2918d791270b07be68ffdac293/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/541d9a2918d791270b07be68ffdac293/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/376dc8215e515455e3f61a127161cfb5/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/376dc8215e515455e3f61a127161cfb5/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/3d3c89a86c13e03c855a226cc4948d3b/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/3d3c89a86c13e03c855a226cc4948d3b/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:8:9-38
+activity#com.example.lap60020_local.retrofit.UI.MainActivity
+ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:15:9-28:20
+	android:name
+		ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:15:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:19:27-74
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:21:13-23:29
+action#android.intent.action.SEARCH
+ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:22:17-71
+	android:name
+		ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:22:25-68
+meta-data#android.app.searchable
+ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:25:13-27:54
+	android:resource
+		ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:27:17-51
+	android:name
+		ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:26:17-54
+activity#com.example.lap60020_local.retrofit.UI.DetailActivity
+ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:29:9-64
+	android:name
+		ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:29:19-52
+activity#com.example.lap60020_local.retrofit.UI.SearchActivity
+ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:30:9-64
+	android:name
+		ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml:30:19-52
+uses-sdk
+INJECTED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml
+INJECTED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/541d9a2918d791270b07be68ffdac293/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/541d9a2918d791270b07be68ffdac293/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/dac8c985e847835a641c6f8516bfe284/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/dac8c985e847835a641c6f8516bfe284/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/95bd17f0a9b9802c07d8ec16e896023e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/95bd17f0a9b9802c07d8ec16e896023e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/376dc8215e515455e3f61a127161cfb5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/376dc8215e515455e3f61a127161cfb5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/837cf524149eb29646632eb4ab576ce9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/837cf524149eb29646632eb4ab576ce9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/9462d13dfcea6478d17c5d7b9d2cc700/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/9462d13dfcea6478d17c5d7b9d2cc700/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/e776d52d018fd4236164f9ea4f24146a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/e776d52d018fd4236164f9ea4f24146a/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/3d3c89a86c13e03c855a226cc4948d3b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/3d3c89a86c13e03c855a226cc4948d3b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/eff12d601a25e62baaacfb8f20f2776c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/eff12d601a25e62baaacfb8f20f2776c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/28531947d44bfa1ab07ff14da6b11dd4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/28531947d44bfa1ab07ff14da6b11dd4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/26b22a892d6e96b8ebdceff2fcb923cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/26b22a892d6e96b8ebdceff2fcb923cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/307f68556b1fd0218dc3e02fa787baff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/307f68556b1fd0218dc3e02fa787baff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2a52de93f3ef35f41dc044a6a4319c99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2a52de93f3ef35f41dc044a6a4319c99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/92b06defabe0ad31025705b3d7a76e8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/92b06defabe0ad31025705b3d7a76e8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/6cd7c914fd03ac28397b1e6a776161af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/6cd7c914fd03ac28397b1e6a776161af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8a0bf5c5d514f51a11145840228fd790/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8a0bf5c5d514f51a11145840228fd790/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/af4a12f4653ac2e01dbd4297a817fcc9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/af4a12f4653ac2e01dbd4297a817fcc9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/3a2eb0483448f700866d09a9c0f0dcbf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/3a2eb0483448f700866d09a9c0f0dcbf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c1e9af1570677f2193176fdf82828106/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c1e9af1570677f2193176fdf82828106/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c1ce6015a16bc7f86bbab95adaf34e79/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/lap60020-local/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c1ce6015a16bc7f86bbab95adaf34e79/AndroidManifest.xml:20:5-44
+INJECTED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml
+INJECTED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml
+		ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml
+		ADDED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lap60020-local/Retrofit/app/src/main/AndroidManifest.xml
